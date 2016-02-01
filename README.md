@@ -1,2 +1,2 @@
-# ii1102-tp1
-Premier tp
+Antoine Latour
+Olivier Batier
